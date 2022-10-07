@@ -7,12 +7,12 @@
   "systems": [
     "dnd5e"
   ],
-  "scripts" : ["scripts/MidiSRD-macros.js"],
-  "styles" : ["scripts/midiSRD-styles.css"],
+  "scripts": [ "scripts/MidiSRD-macros.js" ],
+  "styles": [ "scripts/midiSRD-styles.css" ],
   "minimumCoreVersion": "9",
   "compatibleCoreVersion": "9",
   "allowBugReporter": true,
-  "bugs": "https://github.com/kandashi/midi-srd/issues",
+  "bugs": "https://github.com/dboisvenu/midi-srd-fixed/issues",
   "packs": [
     {
       "name": "Midi SRD Items",
@@ -53,7 +53,7 @@
       "manifest": "https://gitlab.com/tposney/midi-qol/raw/master/package/module.json"
     },
     {
-      "name" :"advanced-macros",
+      "name": "advanced-macros",
       "manifest": "https://github.com/League-of-Foundry-Developers/fvtt-advanced-macros/releases/latest/download/module.json"
     },
     {
@@ -64,9 +64,9 @@
       "name": "times-up",
       "manifest": "https://gitlab.com/tposney/times-up/raw/master/package/module.json"
     }
-    
+
   ],
   "url": "This is auto replaced",
-  "manifest": "https://raw.githubusercontent.com/kandashi/midi-srd/master/module.json",
-  "download": "https://github.com/kandashi/midi-srd/archive/master.zip"
+  "manifest": "https://raw.githubusercontent.com/dboisvenu/midi-srd-fixed/master/module.json",
+  "download": "https://github.com/dboisvenu/midi-srd-fixed/archive/master.zip"
 }
